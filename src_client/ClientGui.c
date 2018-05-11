@@ -1,6 +1,7 @@
 /* Lakhoua Mehdi
  * 2/24/2018
- *
+ * Yuki Hayashi
+ * Ye Myat Kyaw 
  * ClientGui.h: 
  * Source file for client Gui 
  */

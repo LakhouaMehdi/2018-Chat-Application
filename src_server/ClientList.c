@@ -1,3 +1,9 @@
+/*
+ * Yuki Hayashi
+ * 2018/03/01
+ *
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

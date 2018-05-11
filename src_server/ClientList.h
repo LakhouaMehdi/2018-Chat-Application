@@ -1,6 +1,12 @@
 #ifndef CLIENTLIST_H
 #define CLIENTLISt_H
 
+
+/* Yuki Hayashi
+ * 2018/03/01
+ *
+ * */
+
 //#include "  "
 
 typedef struct ClientEntry CENTRY;
